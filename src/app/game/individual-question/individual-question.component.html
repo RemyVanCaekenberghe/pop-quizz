@@ -1,0 +1,8 @@
+<div *ngIf="themes" class="center-screen">
+  <div class="table">
+    <theme [theme]="themes[themeProgression].name"></theme>
+    <question [question]="themes[themeProgression].individualQuestions[questionProgression]"
+      (answered)="enableNextQuestion()"></question>
+    <button *ngIf="answered" mat-raised-button (click)="nextQuestion()">Next</button>
+  </div>
+</div>

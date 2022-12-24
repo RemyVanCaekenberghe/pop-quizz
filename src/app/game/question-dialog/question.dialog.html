@@ -1,0 +1,7 @@
+<h1 mat-dialog-title><theme [theme]="data.theme"></theme></h1>
+<div mat-dialog-content class="center-screen">
+  <question [question]="data.question" [standalone]="true" (answered)="allowClosure()"></question>
+</div>
+<div mat-dialog-actions *ngIf="isAllowedToBeClosed">
+  <button mat-raised-button mat-dialog-close>Close</button>
+</div>

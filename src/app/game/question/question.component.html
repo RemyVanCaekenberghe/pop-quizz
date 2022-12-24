@@ -1,0 +1,24 @@
+<div *ngIf="question" class="">
+  <div *ngFor="let translation of question?.translations">
+    <h2 class="question">{{translation}}</h2>
+  </div>
+  <div *ngIf="question.pictureUrl">
+    <img [src]="question.pictureUrl" alt="image" class="question-picture"/>
+  </div>
+  <div *ngIf="question.hints">
+    <div *ngIf="!allowHints && question.hints; else hints">
+      <button mat-raised-button class="action" (click)="displayHints()">Display propositions</button>
+    </div>
+    <ng-template #hints>
+      <div>
+        <div *ngFor="let hint of question?.hints">
+          <button mat-raised-button class="proposition" (click)="selectAnswer(hint)">{{hint}}</button>
+        </div>
+      </div>
+    </ng-template>
+  </div>
+  <div *ngIf="!answer && !allowHints">
+    <button mat-raised-button class="action" (click)="displayAnswer()">Display Answer</button>
+  </div>
+  <h3 *ngIf="answer" class="answer">{{answer}}</h3>
+</div>

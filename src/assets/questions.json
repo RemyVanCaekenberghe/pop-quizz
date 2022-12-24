@@ -1,0 +1,518 @@
+[
+  {
+    "id": "british-royal-family",
+    "name": "British Royal Family",
+    "individualQuestions": [
+      {
+        "translations": [
+          "What is the date of birth of Queen Elisabeth II ?",
+          "Quelle-est la date de naissance de la reine Elisabeth II ?"
+        ],
+        "answer": "21 april 1926"
+      },
+      {
+        "translations": [
+          "Who was the Successor of Queen Victoria ?",
+          "Qui a été le successeur de la reine Victoria ?"
+        ],
+        "answer": "Edward VII"
+      }
+    ],
+    "questions": [
+      {
+        "translations": [
+          "What is the firstname of the last child of Megan Markle and the Prince Harry ?",
+          "Quel est le prénom du dernier enfant the Megan Markle et du Prince Harry ?"
+        ],
+        "answer": "Lilibeth",
+        "hints": [
+          "Louis",
+          "Archie",
+          "Lilibeth",
+          "Louise"
+        ]
+      },
+      {
+        "translations": [
+          "Princess of Whales is a courtesy title now owned by Kate Middleton. Who previously owned this title ?",
+          "Princess of Whales est un titre de courtoisie maintenant possédé par Kate Middleton. Qui en était la précédente détentrice ?"
+        ],
+        "answer": "Queen Consort Camillia",
+        "hints": [
+          "Queen Consort Camillia",
+          "Princess Diana",
+          "Meghan Markle",
+          "Sophie Rhys-Jones"
+        ]
+      },
+      {
+        "translations": [
+          "Who is this man ?",
+          "Qui-est cette personne ?"
+        ],
+        "pictureUrl": "/assets/pictures/british_family_3.jpg",
+        "answer": "King George V",
+        "hints": [
+          "King George VI",
+          "King George V",
+          "King Edward VII",
+          "King William IV"
+        ]
+      },
+      {
+        "translations": [
+          "Princess Diana went once to a White house visit. With which famous actor did she dance with ?",
+          "Princess Diana est un jour allé à une visite de la maison blanche. Avec Quel acteur célèbre a-t-elle dansé ?"
+        ],
+        "answer": "John Travolta",
+        "hints": [
+          "Kevin Bacon",
+          "John Travolta",
+          "Patrick Swayze",
+          "Richard Gere"
+        ]
+      },
+      {
+        "translations": [
+          "How is the Prince Richard related to King Charles III ?",
+          "Comment est lié le Prince Richard avec le roi Charles III ?"
+        ],
+        "answer": "His is his great-cousin / il est son grand-cousin",
+        "hints": [
+          "His is his cousin / il est son cousin",
+          "His is his nephew / il est son neveu",
+          "His is his great-uncle / il est son grand-oncle",
+          "His is his great-cousin / il est son grand-cousin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sci-fi-shows",
+    "name": "Sci-fi in movies and tv shows",
+    "individualQuestions": [
+      {
+        "translations": [
+          "In which year Marty and Doc went at the beginning Back to The future II ?",
+          "En quelle année Marty et Doc vont-ils au début de retour vers le futur ?"
+        ],
+        "answer": "2015"
+      },
+      {
+        "translations": [
+          "What is the name of the main antagonists in Battlestar Gallactica ?",
+          "Quel-est le nom des antagonistes principaux de Battlestar Gallactica ?"
+        ],
+        "answer": "Cyclons"
+      }
+    ],
+    "questions": [
+      {
+        "translations": [
+          "In which year was released the first ever episode of Dr Who ?",
+          "En quelle année est sorti le tout premier épisode de Dr Who ?"
+        ],
+        "answer": "1963",
+        "hints": [
+          "1968",
+          "1963",
+          "1976",
+          "1971"
+        ]
+      },
+      {
+        "translations": [
+          "From which tv show is this picture comming from ?",
+          "De quelle serie vient cette photo ?"
+        ],
+        "pictureUrl": "/assets/pictures/sci_fi_2.jpg",
+        "answer": "Black Mirror",
+        "hints": [
+          "Star Trek Discovery",
+          "Dark Matter",
+          "The Expanse",
+          "Black Mirror"
+        ]
+      },
+      {
+        "translations": [
+          "What is the name of the I.A in Ex Machina ?",
+          "Quel est le nom de l'I.A dans Ex Machina ?"
+        ],
+        "answer": "Ava",
+        "hints": [
+          "Mary",
+          "Ava",
+          "Amy",
+          "Sarah"
+        ]
+      },
+      {
+        "translations": [
+          "In Pacific Rim, what is the name of the robots used to fight the monsters ?",
+          "Dans Pacific Rim, quel est le nom des robots utilisés pour combattre les monstres ?"
+        ],
+        "answer": "Jaegers",
+        "hints": [
+          "Kaijus",
+          "Hunters",
+          "Jaegers",
+          "Gundams"
+        ]
+      },
+      {
+        "translations": [
+          "In In Time, at what age do the the people stop aging ?",
+          "Dans Time Out, à quel âge les gens arrêtent-ils de vieillir ?"
+        ],
+        "answer": "25",
+        "hints": [
+          "20",
+          "23",
+          "25",
+          "30"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opera",
+    "name": "Opera",
+    "individualQuestions": [
+      {
+        "translations": [
+          "Who wrote: \"Il Pompeo\" ?",
+          "Qui a composé: \"Il Pompeo\" ?"
+        ],
+        "answer": "Alessandro Scarlatti"
+      },
+      {
+        "translations": [
+          "What is the first french opera ?",
+          "Quel est le premier opéra français ?"
+        ],
+        "answer": "Pomone"
+      }
+    ],
+    "questions": [
+      {
+        "translations": [
+          "What's the job of Marcello in \"La Bohème\" from Giacomo Puccini ?",
+          "Quel est le métier de Marcello dans \"La Bohème\" de Giacomo Puccini ?"
+        ],
+        "answer": "painter / peintre",
+        "hints": [
+          "poet / poète",
+          "philosopher / philosophe",
+          "painter / peintre",
+          "toy vendor / vendeur de jouets"
+        ]
+      },
+      {
+        "translations": [
+          "From which opera of Mozart is this comming from ?",
+          "De quel opéra de Mozart cela vient-il ?"
+        ],
+        "pictureUrl": "/assets/pictures/opera_2.jpg",
+        "answer": "Don Giovanni",
+        "hints": [
+          "Le nozze di Figaro",
+          "Don Giovanni",
+          "Apollo et Hyacinthus",
+          "Così fan tutte"
+        ]
+      },
+      {
+        "translations": [
+          "When did Jacques Offenbach write \"La belle Hélène\" ?",
+          "Quand Jacques Offenbach a-t-il écrit \"La belle Hélène\" ?"
+        ],
+        "answer": "1864",
+        "hints": [
+          "1858",
+          "1860",
+          "1862",
+          "1864"
+        ]
+      },
+      {
+        "translations": [
+          "How many operas are composing \"Licht\" from Karlheinz Stockhausen ?",
+          "En combien d'opéra se divise \"Licht\" de Karlheinz Stockhausen ?"
+        ],
+        "answer": "7",
+        "hints": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "translations": [
+          "From which opéra is this comming from ?",
+          "De quel opéra cet extrait vient-il ?"
+        ],
+        "pictureUrl": "/assets/pictures/opera_5.jpg",
+        "answer": "La rencontre imprévue",
+        "hints": [
+          "La chercheuse d'esprit",
+          "La rencontre imprévue",
+          "Le calife de Bagdad",
+          "Fantasio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rock-bands",
+    "name": "Rock bands",
+    "individualQuestions": [
+      {
+        "translations": [
+          "What's the name of the last album of AC/DC with Bon Scott ?",
+          "Quel-est le nom du dernier album d'AC/DC avec Bon Scott ?"
+        ],
+        "answer": "Highway to Hell"
+      },
+      {
+        "translations": [
+          "How many singers Iron Maiden had ?",
+          "Combien de chanteurs a eu Iron Maiden ?"
+        ],
+        "answer": "5"
+      }
+    ],
+    "questions": [
+      {
+        "translations": [
+          "In which year Oasis stopped to play together ?",
+          "En quelle année Oasis le groupe Oasis s'est-il dissous ?"
+        ],
+        "answer": "2009",
+        "hints": [
+          "2002",
+          "2006",
+          "2009",
+          "2011"
+        ]
+      },
+      {
+        "translations": [
+          "Rick Allen is a drummer but for which band ?",
+          "Rick Allen est batteur mais pour quel groupe ?"
+        ],
+        "answer": "Def Leppard",
+        "hints": [
+          "Gotthard",
+          "Def Leppard",
+          "Airbourne",
+          "Judas Priest"
+        ]
+      },
+      {
+        "translations": [
+          "From which album is this cover comming from ?",
+          "De quel album vient cette pochette ?"
+        ],
+        "pictureUrl": "/assets/pictures/rock_band_3.jpg",
+        "answer": "Led Zepplin - Houses of the Holy",
+        "hints": [
+          "Led Zepplin - Houses of the Holy",
+          "Aerosmith - Rock in a Hard Place",
+          "Foo Fighters - One by One",
+          "Black Sabbath - Mob Rules"
+        ]
+      },
+      {
+        "translations": [
+          "What was the first band of Dave Grohl ?",
+          "Quel a été le premier groupe de Dave Grohl ?"
+        ],
+        "answer": "Scream",
+        "hints": [
+          "Foo Fighters",
+          "Nirvana",
+          "Scream",
+          "Queens of the Stone Age"
+        ]
+      },
+      {
+        "translations": [
+          "Who was the bass player of the beatles ?",
+          "Qui était le bassiste des Beatles ?"
+        ],
+        "answer": "Paul Mc Cartney",
+        "hints": [
+          "John Lennon",
+          "Paul Mc Cartney",
+          "George Harrisson",
+          "Ringo Starr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitals-and-flags",
+    "name": "Capitals and Flags",
+    "individualQuestions": [
+      {
+        "translations": [
+          "Which country is represented by this flag ?",
+          "Quel-est le pays représenté par ce drapeau ?"
+        ],
+        "answer": "Serbie",
+        "pictureUrl": "/assets/pictures/flag.jpg"
+      },
+      {
+        "translations": [
+          "What is the capital of Azerbaïjan ?",
+          "Quel est la capitale de l'Azerbaïjan ?"
+        ],
+        "answer": "Bakou"
+      }
+    ],
+    "questions": [
+      {
+        "translations": [
+          "What is the capital of Laos ?",
+          "Quelle-est la capitale du Laos ?"
+        ],
+        "answer": "Vientiane",
+        "hints": [
+          "Paksé",
+          "Vientiane",
+          "Houei Sai",
+          "Salavan"
+        ]
+      },
+      {
+        "translations": [
+          "Which country is represented by this flag ?",
+          "Quel-est le pays représenté par ce drapeau ?"
+        ],
+        "answer": "Indonesia / Indonésie",
+        "pictureUrl": "/assets/pictures/flag_2.jpg",
+        "hints": [
+          "Indonesia / Indonésie",
+          "Poland / Pologne",
+          "Malta / Matle",
+          "Peru / Pérou"
+        ]
+      },
+      {
+        "translations": [
+          "Which country is represented by this flag ?",
+          "Quel-est le pays représenté par ce drapeau ?"
+        ],
+        "answer": "Chili",
+        "pictureUrl": "/assets/pictures/flag_3.jpg",
+        "hints": [
+          "Cuba",
+          "Dominican Republic / République Dominicaine",
+          "Chili",
+          "Costa Rica"
+        ]
+      },
+      {
+        "translations": [
+          "What is the capital of Ouganda ?",
+          "Quelle-est la capitale de l'Ouganda ?"
+        ],
+        "answer": "Kampala",
+        "hints": [
+          "Djouba",
+          "Arua",
+          "Malindi",
+          "Kampala"
+        ]
+      },
+      {
+        "translations": [
+          "What is the capital of Sri Lanka ?",
+          "Quelle-est la capitale du Sri Lanka ?"
+        ],
+        "answer": "Colombo",
+        "hints": [
+          "Colombo",
+          "Derik",
+          "Navaro",
+          "Rex chien flic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "magic-the-gathering",
+    "name": "Magic the Gathering",
+    "questions": [
+      {
+        "translations": [
+          "How many colors of mana are present in Magic ?",
+          "Combien de couleur de mana y-a-t'il dans Magic ?"
+        ],
+        "answer": "5",
+        "hints": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "translations": [
+          "Who is this character ?",
+          "Qui est ce personnage ?"
+        ],
+        "answer": "Jace Beleren",
+        "pictureUrl": "/assets/pictures/mtg_3.jpg",
+        "hints": [
+          "Gideon Jura",
+          "Sarkhan",
+          "Jace Beleren",
+          "Elspeth"
+        ]
+      },
+      {
+        "translations": [
+          "Which type of card can you play whenever you want ?",
+          "Quel type de carte peut-on jouer quand on veut ?"
+        ],
+        "answer": "Instant / éphemère",
+        "hints": [
+          "Sorcery / Rituel",
+          "Instant / éphemère",
+          "Artifact / Artefact",
+          "Planeswaker"
+        ]
+      },
+      {
+        "translations": [
+          "What's the name of the guild represented by Black and Blue mana ?",
+          "Quel est le nom de la guilde représentée par le mana bleu et noir ?"
+        ],
+        "answer": "Dimir",
+        "hints": [
+          "Dimir",
+          "Grixis",
+          "Rakdos",
+          "Izzet"
+        ]
+      },
+      {
+        "translations": [
+          "Which other license, oustide of Magic, had an official set ?",
+          "Quelle license, en dehors de Magic, a eu une extension officielle ?"
+        ],
+        "answer": "Dungeons and dragons / Donjons et Dragons",
+        "hints": [
+          "The Walking Dead",
+          "Warhammer 40k",
+          "Lord of the Rings / Le Seigneur des Anneaux",
+          "Dungeons and dragons / Donjons et Dragons"
+        ]
+      }
+    ],
+    "secret": true
+  }
+]

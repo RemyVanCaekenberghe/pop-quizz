@@ -1,0 +1,58 @@
+.theme {
+  margin-left: 0.5em;
+}
+
+.theme-identifier {
+  padding: 1em;
+}
+
+.dancefloor {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%
+}
+
+.british-royal-family {
+  background-color: #F44336;
+}
+
+.sci-fi-shows {
+  background-color: #3F51B5;
+}
+
+.rock-bands {
+  background-color: #43A047;
+}
+
+.capitals-and-flags {
+  background-color: #F06292;
+}
+
+.magic-the-gathering {
+  background-color: #6D4C41;
+}
+
+.opera {
+  background-color: #FF9800;
+}
+
+.mat-grid-tile {
+  border: black 2px solid;
+}
+
+.themes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: flex-start;
+
+  div {
+    margin: 0.1em
+  }
+
+  .action {
+    margin: 1em 0;
+  }
+}
+
+

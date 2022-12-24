@@ -1,0 +1,18 @@
+<div>
+  <div *ngIf="!started && !randomizing" class="themes">
+    <ng-container *ngFor="let theme of themes">
+      <div>
+        <span [class]="theme.id"><span class="theme-identifier"></span></span>
+        <span class="theme">theme: <span>{{ theme.secret ? '???' : theme.name}}</span></span>
+      </div>
+    </ng-container>
+    <button mat-raised-button class="action" (click)="randomizeQuestions()">Start</button>
+  </div>
+  <div *ngIf="themes" class="dancefloor">
+    <mat-grid-list [cols]="themes.length">
+      <mat-grid-tile *ngFor="let question of questions; let id = index"
+        [class]="!started || randomizing || question.answered ? question.themeId : 'unanswered'"
+        (click)="displayQuestion(question)">{{id + 1}}</mat-grid-tile>
+    </mat-grid-list>
+  </div>
+</div>
