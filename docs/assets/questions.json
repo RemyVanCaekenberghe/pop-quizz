@@ -50,7 +50,7 @@
           "Who is this man ?",
           "Qui-est cette personne ?"
         ],
-        "pictureUrl": "/assets/pictures/british_family_3.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/british_family_3.jpg",
         "answer": "King George V",
         "hints": [
           "King George VI",
@@ -125,7 +125,7 @@
           "From which tv show is this picture comming from ?",
           "De quelle serie vient cette photo ?"
         ],
-        "pictureUrl": "/assets/pictures/sci_fi_2.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/sci_fi_2.jpg",
         "answer": "Black Mirror",
         "hints": [
           "Star Trek Discovery",
@@ -213,7 +213,7 @@
           "From which opera of Mozart is this comming from ?",
           "De quel opéra de Mozart cela vient-il ?"
         ],
-        "pictureUrl": "/assets/pictures/opera_2.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/opera_2.jpg",
         "answer": "Don Giovanni",
         "hints": [
           "Le nozze di Figaro",
@@ -253,7 +253,7 @@
           "From which opéra is this comming from ?",
           "De quel opéra cet extrait vient-il ?"
         ],
-        "pictureUrl": "/assets/pictures/opera_5.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/opera_5.jpg",
         "answer": "La rencontre imprévue",
         "hints": [
           "La chercheuse d'esprit",
@@ -315,7 +315,7 @@
           "From which album is this cover comming from ?",
           "De quel album vient cette pochette ?"
         ],
-        "pictureUrl": "/assets/pictures/rock_band_3.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/rock_band_3.jpg",
         "answer": "Led Zepplin - Houses of the Holy",
         "hints": [
           "Led Zepplin - Houses of the Holy",
@@ -362,7 +362,7 @@
           "Quel-est le pays représenté par ce drapeau ?"
         ],
         "answer": "Serbie",
-        "pictureUrl": "/assets/pictures/flag.jpg"
+        "pictureUrl": "pop-quizz/assets/pictures/flag.jpg"
       },
       {
         "translations": [
@@ -392,7 +392,7 @@
           "Quel-est le pays représenté par ce drapeau ?"
         ],
         "answer": "Indonesia / Indonésie",
-        "pictureUrl": "/assets/pictures/flag_2.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/flag_2.jpg",
         "hints": [
           "Indonesia / Indonésie",
           "Poland / Pologne",
@@ -406,7 +406,7 @@
           "Quel-est le pays représenté par ce drapeau ?"
         ],
         "answer": "Chili",
-        "pictureUrl": "/assets/pictures/flag_3.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/flag_3.jpg",
         "hints": [
           "Cuba",
           "Dominican Republic / République Dominicaine",
@@ -465,7 +465,7 @@
           "Qui est ce personnage ?"
         ],
         "answer": "Jace Beleren",
-        "pictureUrl": "/assets/pictures/mtg_3.jpg",
+        "pictureUrl": "pop-quizz/assets/pictures/mtg_3.jpg",
         "hints": [
           "Gideon Jura",
           "Sarkhan",
