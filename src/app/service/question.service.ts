@@ -11,6 +11,6 @@ export class QuestionService {
   constructor(private httpClient: HttpClient) { }
 
   getThemes(): Observable<Array<Theme>> {
-    return this.httpClient.get<Array<Theme>>('/assets/questions.json');
+    return this.httpClient.get<Array<Theme>>('/pop-quizz/assets/questions.json');
   }
 }
